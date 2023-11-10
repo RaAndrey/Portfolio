@@ -44,9 +44,13 @@ https://metabase.sky.pro/question/89006
   <li>Проверка данных </li>
   <li>Визуализация итоговых показателей</li>(https://metabase.sky.pro/question/90953)https://metabase.sky.pro/question/90953
 </ol> 
-<p> </p>
 
 ## Контактная информация
-email:
-Linkedin:
-HeadHunter:
+<ol>
+  <li>email:</li>
+  <li>Linkedin: </li>
+  <li>HeadHunter: </li>
+</ol> 
+
+
+
